@@ -26,7 +26,6 @@ You can find me on different platforms:
 - 🌐 Check out my portfolio: [Portfolio]([[https://your-portfolio-link](https://github.com/ferguevara2000)](https://portfolio-ggt.pages.dev))
 - 💼 Connect with me on LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/fernando-guevara-bayas-788981184/))
 - 📧 Drop me an email at: ferguevara3c@gmail.com
-- 🐦 Follow me on Twitter: [@your-twitter-handle]([https://twitter.com/your-twitter-handle](https://twitter.com/fer_guevara2000))
 
 Let's connect and collaborate on exciting projects together!
 
