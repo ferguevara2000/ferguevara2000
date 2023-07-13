@@ -1,16 +1,39 @@
-### Hi there 👋
+<!-- [![Header](https://your-image-link)](https://your-portfolio-link) -->
+# 👨‍💻 Hello, I'm Fernando Guevara!
 
-<!--
-**ferguevara2000/ferguevara2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Full Stack Developer | 🌍 Languages: 🇪🇸 Español | 🇺🇸 English
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building web and mobile applications using a variety of technologies. Let me share a bit about myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I'm a Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Java, C#, SQL, Git, and Flutter.
+- 🚀 I enjoy creating dynamic and interactive user interfaces using modern web technologies.
+- ⚡️ I'm always learning and exploring new technologies to stay up-to-date with the latest industry trends.
+- ⚽ In my free time, you can find me playing soccer or diving into immersive video games.
+
+## 🛠️ Skills
+- 💻 HTML | CSS | JavaScript
+- ⚛️ React
+- ☕ Java
+- #️⃣ C#
+- 🗄️ SQL
+- 🐙 Git
+- 📱 Flutter
+
+## 📫 Connect with Me
+You can find me on different platforms:
+
+- 🌐 Check out my portfolio: [Portfolio]([[https://your-portfolio-link](https://github.com/ferguevara2000)](https://portfolio-ggt.pages.dev))
+- 💼 Connect with me on LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/fernando-guevara-bayas-788981184/))
+- 📧 Drop me an email at: ferguevara3c@gmail.com
+- 🐦 Follow me on Twitter: [@your-twitter-handle]([https://twitter.com/your-twitter-handle](https://twitter.com/fer_guevara2000))
+
+Let's connect and collaborate on exciting projects together!
+
+## 📊 GitHub Stats
+<!-- Add your GitHub stats using https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferguevara2000&show_icons=true&theme=dark)
+
+<!-- You can add additional sections like featured projects, blog posts, or recent activities to make your profile more engaging and interactive. -->
+
+Thank you for visiting my profile! 😊🚀
